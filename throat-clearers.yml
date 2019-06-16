@@ -1,0 +1,14 @@
+extends: existence
+message: "Avoid using '%s'!"
+ignorecase: true
+level: warning
+tokens:
+  - actually
+  - very
+  - rather
+  - really
+  - quite
+  - in fact
+  - of course
+  - surely
+  - that said

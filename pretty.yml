@@ -1,0 +1,10 @@
+extends: existence
+message: "Avoid using this form of pretty: '%s'!"
+ignorecase: true
+level: warning
+pos: '/pretty \w+/NN'
+tokens:
+  - pretty
+
+  
+  
