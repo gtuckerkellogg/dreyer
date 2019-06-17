@@ -1,6 +1,6 @@
 # Dreyer lint
 
-[Dreyer's English](https://www.amazon.com/Dreyers-English-Utterly-Correct-Clarity/dp/0812995708) is indispensable for my writing and editing. The [Vale](https://github.com/errata-ai/vale) linter provides a framework for using a user-provided style with an efficient linter. I write in [Emacs](https://www.gnu.org/software/emacs/), for which a [Flycheck integration for Vale](https://github.com/abingham/flycheck-vale) is available, so I'm re-reading Dreyer's English and putting together a Vale style based on my interpretation of Dreyer's recommendations.
+[Dreyer's English](https://www.amazon.com/Dreyers-English-Utterly-Correct-Clarity/dp/0812995708) is indispensable for my writing and editing. The [Vale](https://github.com/errata-ai/vale) linter provides a framework for user-provided styles with an efficient linter. I write in [Emacs](https://www.gnu.org/software/emacs/), for which a [Flycheck integration for Vale](https://github.com/abingham/flycheck-vale) is available, so I'm re-reading Dreyer's English and putting together a Vale style based on my interpretation of Dreyer's recommendations.
 
 ## Work in progress
 
