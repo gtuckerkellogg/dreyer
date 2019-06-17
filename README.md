@@ -4,7 +4,7 @@
 
 ## Work in progress
 
-I'm implementing chapter by chapter, and learning about Vale at the same time.  What counts as an error and what counts as a suggestion are subject to change.
+I'm implementing chapter by chapter, and learning about Vale at the same time.  What counts as a Vale error, warning, or suggestion are subject to change.
 
 ## Example: "pretty much", or "pretty good". 
 
