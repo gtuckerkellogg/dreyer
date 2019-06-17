@@ -1,0 +1,7 @@
+extends: existence
+message: "Never use '%s'"
+ignorecase: true
+level: error
+tokens:
+  - actually
+
