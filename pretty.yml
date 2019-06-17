@@ -1,9 +1,9 @@
 extends: existence
 message: "Avoid using this form of pretty: '%s'!"
 ignorecase: true
-level: warning
+level: error
 # obtained from ngrams https://www.ngrams.info/ where word after
-# pretty is tagged POS=jj, rrmap(tokens$word2o 
+# pretty is tagged POS=jj (adjective) or rr (adverb)
 tokens:
   - pretty accurate
   - pretty active
