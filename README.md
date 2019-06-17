@@ -4,7 +4,7 @@
 
 ## Work in progress
 
-I'm implementing chapter by chapter, and learning about Vale at the same time.  What counts as a Vale error, warning, or suggestion are subject to change.
+I'm implementing chapter by chapter, and learning about Vale at the same time.  What counts as a Vale error, warning, or suggestion is subject to change.
 
 ## Example: "pretty much", or "pretty good". 
 
@@ -12,5 +12,5 @@ Dreyer recommends avoiding this sort of usage, but doesn't recommend avoiding "p
 
 ## The limitations you should expect
 
-Dreyer offers many recommendations but provides exceptions in almost equal measure. Many of the recommendations that he does provide are hard to capture, or might be hard for *me* to implement. If this project develops in my spare time, I'll be focused on the easiest parts, and probably leave most of Dreyer's recommendations aside. Sorry about that.
+Dreyer offers many recommendations but provides exceptions in almost equal measure. Many of the recommendations that he does provide are hard to capture, or might be hard for me to implement. If this project develops in my spare time, I'll focus on the easiest parts, and probably leave most of Dreyer's recommendations aside. Sorry about that.
 
