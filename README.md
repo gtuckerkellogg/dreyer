@@ -8,7 +8,7 @@ I'm implementing chapter by chapter, and learning about Vale at the same time.  
 
 ## Example: "pretty much", or "pretty good". 
 
-Dreyer recommends avoiding this sort of usage, but doesn't recommend avoiding "pretty" in general. I thought at first that I could use Vale's Part of Speech (POS) tagging to avoid "pretty" when followed by an adjective or adverb, but Vale's current support for POS tagging is limited to substitution rules, not existence rules. Instead, I downloaded the top 1,000,000 two-word n-grams in English from <https://www.ngrams.info/>, and identified 229 cases of "pretty"  followed by an adjective or adverb, which are now in `pretty.yml`.
+Dreyer recommends avoiding this sort of usage, but doesn't recommend avoiding "pretty" in general. I thought at first that I could use Vale's Part of Speech (POS) tagging to avoid "pretty" when followed by an adjective or adverb, but Vale's current support for POS tagging is limited to substitution rules, not existence rules. Instead, I downloaded the top 1,000,000 two-word n-grams in English from <https://www.ngrams.info/> and identified 229 cases of "pretty"  followed by an adjective or adverb: these are now in `pretty.yml`.
 
 ## The limitations you should expect
 
