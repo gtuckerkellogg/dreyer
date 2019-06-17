@@ -10,3 +10,7 @@ This is very much a work in progress. I'm implementing chapter by chapter, and l
 
 Dreyer recommends avoiding this sort of usage, but doesn't recommend avoiding "pretty" in general. I thought at first that I could use Vale's Part of Speech (POS) tagging to avoid "pretty" when followed by an adjective or adverb, but Vale's current support for POS tagging is limited to substitution rules, not existence rules. So I downloaded the top 1,000,000 two-word n-grams in English from <https://www.ngrams.info/>, and identified 229 cases of "pretty"  followed by an adjective or adverb, all of which are now in `pretty.yml`.
 
+## The (many) limitations you should expect
+
+Dreyer offers many recommendations but provides exceptions in almost equal measure. Many of the recommendations that he does provide are hard to capture, or might be hard for *me* to implement. So if this project develops in my spare time, it'll be focused on the easiest parts to implement, and leave many recommendations aside. Sorry about that.
+

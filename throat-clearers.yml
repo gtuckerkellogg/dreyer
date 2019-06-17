@@ -3,7 +3,6 @@ message: "Avoid using '%s'!"
 ignorecase: true
 level: warning
 tokens:
-  - actually
   - very
   - rather
   - really
